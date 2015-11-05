@@ -18,7 +18,7 @@ Some alternative symbols for your maps.
 
 ![gray house](gray_house.png)
 
- ###### Green House
+###### Green House
 
 ![green house](green_house.png)
 
@@ -26,7 +26,7 @@ Some alternative symbols for your maps.
 
 ![happy house](happy_house.png)
 
- ###### Orange House
+###### Orange House
  
 ![orange house](orange_house.png)
 
