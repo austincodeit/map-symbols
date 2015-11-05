@@ -7,19 +7,28 @@ Black House
 (black_house.png)
 
 Blue House
-!(blue_house.png)
+![blue house](blue_house.png)
 
 Gray Check House
-![blue house](gray_check_house.png)
+![Gray Check House](gray_check_house.png)
 
 Blue House
-![blue house](blue_house.png)
+![gray house](gray_house.png)
 
-Blue House
-![blue house](blue_house.png)
+ Green House
+![green house](green_house.png)
 
-Blue House
-![blue house](blue_house.png)
+ Happy House
+![happy house](happy_house.png)
 
-Blue House
-![blue house](blue_house.png)
+ Orange House
+![orange house](orange_house.png)
+
+Pale Green House
+![pale green house](pale_green_house.png)
+
+ Question Mark
+![question mark](quesiton_mark.png)
+
+Red House
+![red house](red_house.png)
