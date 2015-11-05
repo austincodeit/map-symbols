@@ -22,7 +22,7 @@ Some alternative symbols for your maps.
 
 ![green house](green_house.png)
 
-######  Happy House
+###### Happy House
 
 ![happy house](happy_house.png)
 
@@ -31,7 +31,8 @@ Some alternative symbols for your maps.
 ![orange house](orange_house.png)
 
 ###### Pale Green House
-###### ![pale green house](pale_green_house.png)
+
+![pale green house](pale_green_house.png)
 
 ###### Question Mark
 
