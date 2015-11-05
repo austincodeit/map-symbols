@@ -2,34 +2,41 @@
 
 Some alternative symbols for your maps.
 
-Black House
+###### Black House
 
-![black house]
-(black_house.png)
+![black house](black_house.png)
 
-Blue House
+###### Blue House
+
 ![blue house](blue_house.png)
 
-Gray Check House
+###### Gray Check House
+
 ![Gray Check House](gray_check_house.png)
 
-Blue House
+###### Gray House
+
 ![gray house](gray_house.png)
 
- Green House
+ ###### Green House
+
 ![green house](green_house.png)
 
- Happy House
+######  Happy House
+
 ![happy house](happy_house.png)
 
- Orange House
+ ###### Orange House
+ 
 ![orange house](orange_house.png)
 
-Pale Green House
-![pale green house](pale_green_house.png)
+###### Pale Green House
+###### ![pale green house](pale_green_house.png)
 
- Question Mark
+###### Question Mark
+
 ![question mark](question_mark.png)
 
-Red House
+###### Red House
+
 ![red house](red_house.png)
