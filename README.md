@@ -7,10 +7,10 @@ Black House
 (black_house.png)
 
 Blue House
-![blue house](blue_house.png)
+!(blue_house.png)
 
-Blue House
-![blue house](blue_house.png)
+Gray Check House
+![blue house](gray_check_house.png)
 
 Blue House
 ![blue house](blue_house.png)
