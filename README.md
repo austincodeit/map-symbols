@@ -3,6 +3,7 @@
 Some alternative symbols for your maps.
 
 Black House
+
 ![black house]
 (black_house.png)
 
@@ -28,7 +29,7 @@ Pale Green House
 ![pale green house](pale_green_house.png)
 
  Question Mark
-![question mark](quesiton_mark.png)
+![question mark](question_mark.png)
 
 Red House
 ![red house](red_house.png)
