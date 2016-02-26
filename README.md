@@ -29,8 +29,6 @@ Some alternative symbols for your maps.
 
 ###### C Badge
 
-![Black C Badge](code_badge_black.png)
-
 ![Blue C Badge](code_badge_blue.png)
 
 ![Red C Badge](code_badge_red.png)
