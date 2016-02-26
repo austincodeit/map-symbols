@@ -4,15 +4,15 @@ Some alternative symbols for your maps.
 
 ###### Truck
 
-![Black Truck](truck_black.png)  ![Blue truck](truck_blue.png)  ![Red truck](truck_red.png)  ![Yellow truck](truck_yellow.png)  ![Green truck](green_yellow.png)
+![Black Truck](truck_black.png)  ![Blue truck](truck_blue.png)  ![Red truck](truck_red.png)  ![Yellow truck](truck_yellow.png)  ![Green truck](green_truck.png)
 
 ###### Letter T
 
-![Black T](t_black.png)  ![Blue T](t_blue.png)  ![Red T](t_red.png)  ![Yellow T](t_yellow.png)  ![Green T](green_yellow.png)
+![Black T](t_black.png)  ![Blue T](t_blue.png)  ![Red T](t_red.png)  ![Yellow T](t_yellow.png)  ![Green T](green_t.png)
 
 ###### C Badge
 
-![Black C Badge](code_badge_black.png)  ![Blue C Badge](code_badge_blue.png)  ![Red C Badge](code_badge_red.png)  ![Yellow C Badge](code_badge_yellow.png)  ![Green C Badge](code_badge_yellow.png)
+![Blue C Badge](code_badge_blue.png)  ![Red C Badge](code_badge_red.png)  ![Yellow C Badge](code_badge_yellow.png)  ![Green C Badge](code_badge_green.png)
 
 ###### House
 
