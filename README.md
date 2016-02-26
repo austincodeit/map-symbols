@@ -14,6 +14,9 @@ Some alternative symbols for your maps.
 
 ![Blue C Badge](code_badge_blue.png)  ![Red C Badge](code_badge_red.png)  ![Yellow C Badge](code_badge_yellow.png)  ![Green C Badge](code_badge_green.png)
 
+###### P Badge
+![Black P](p_black.png)  ![Blue P](p_blue.png)  ![Red P](p_red.png)  ![Yellow P](p_yellow.png)  ![Green P](p_green.png)
+
 ###### House
 
 ![black house](black_house.png)  ![blue house](blue_house.png)  ![Gray Check House](gray_check_house.png)  ![gray house](gray_house.png)  ![green house](green_house.png)  ![happy house](happy_house.png)  ![orange house](orange_house.png)  ![pale green house](pale_green_house.png) ![red house](red_house.png)
@@ -21,4 +24,3 @@ Some alternative symbols for your maps.
 ###### Question Mark
 
 ![question mark](question_mark.png)
-
