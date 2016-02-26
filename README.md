@@ -5,9 +5,7 @@ Some alternative symbols for your maps.
 
 ###### Truck
 
-![Black Truck](truck_black.png)
-
-![Blue truck](truck_blue.png)
+![Black Truck](truck_black.png)   ![Blue truck](truck_blue.png)
 
 ![Red truck](truck_red.png)
 
