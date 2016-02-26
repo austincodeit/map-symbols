@@ -4,11 +4,11 @@ Some alternative symbols for your maps.
 
 ###### Truck
 
-![Black Truck](truck_black.png)  ![Blue truck](truck_blue.png)  ![Red truck](truck_red.png)  ![Yellow truck](truck_yellow.png)  ![Green truck](green_truck.png)
+![Black Truck](truck_black.png)  ![Blue truck](truck_blue.png)  ![Red truck](truck_red.png)  ![Yellow truck](truck_yellow.png)  ![Green truck](truck_green.png)
 
 ###### Letter T
 
-![Black T](t_black.png)  ![Blue T](t_blue.png)  ![Red T](t_red.png)  ![Yellow T](t_yellow.png)  ![Green T](green_t.png)
+![Black T](t_black.png)  ![Blue T](t_blue.png)  ![Red T](t_red.png)  ![Yellow T](t_yellow.png)  ![Green T](t_green.png)
 
 ###### C Badge
 
@@ -21,3 +21,4 @@ Some alternative symbols for your maps.
 ###### Question Mark
 
 ![question mark](question_mark.png)
+
