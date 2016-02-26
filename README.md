@@ -2,42 +2,50 @@
 
 Some alternative symbols for your maps.
 
-###### Black House
+###### Truck
+
+![Black Truck](truck_black.png)
+
+![Blue truck](truck_blue.png)
+
+![Red truck](truck_red.png)
+
+![Yellow truck](truck_yellow.png)
+
+![Green truck](green_yellow.png)
+
+###### Letter T
+
+![Black T](t_black.png)
+
+![Blue T](t_blue.png)
+
+![Red T](t_red.png)
+
+![Yellow T](t_yellow.png)
+
+![Green T](green_yellow.png)
+
+###### House
 
 ![black house](black_house.png)
 
-###### Blue House
-
 ![blue house](blue_house.png)
-
-###### Gray Check House
 
 ![Gray Check House](gray_check_house.png)
 
-###### Gray House
-
 ![gray house](gray_house.png)
-
-###### Green House
 
 ![green house](green_house.png)
 
-###### Happy House
-
 ![happy house](happy_house.png)
 
-###### Orange House
- 
 ![orange house](orange_house.png)
 
-###### Pale Green House
-
 ![pale green house](pale_green_house.png)
+
+![red house](red_house.png)
 
 ###### Question Mark
 
 ![question mark](question_mark.png)
-
-###### Red House
-
-![red house](red_house.png)
