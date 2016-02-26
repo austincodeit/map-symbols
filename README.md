@@ -2,6 +2,7 @@
 
 Some alternative symbols for your maps.
 
+
 ###### Truck
 
 ![Black Truck](truck_black.png)
@@ -25,6 +26,18 @@ Some alternative symbols for your maps.
 ![Yellow T](t_yellow.png)
 
 ![Green T](green_yellow.png)
+
+###### C Badge
+
+![Black C Badge](code_badge_black.png)
+
+![Blue C Badge](code_badge_blue.png)
+
+![Red C Badge](code_badge_red.png)
+
+![Yellow C Badge](code_badge_yellow.png)
+
+![Green C Badge](code_badge_yellow.png)
 
 ###### House
 
