@@ -13,7 +13,7 @@ Some alternative symbols for your maps.
 
 ![Yellow truck](truck_yellow.png)
 
-![Green truck](green_yellow.png)
+![Green truck](truck_green.png)
 
 ###### Letter T
 
@@ -25,7 +25,7 @@ Some alternative symbols for your maps.
 
 ![Yellow T](t_yellow.png)
 
-![Green T](green_yellow.png)
+![Green T](t_green.png)
 
 ###### C Badge
 
@@ -37,7 +37,7 @@ Some alternative symbols for your maps.
 
 ![Yellow C Badge](code_badge_yellow.png)
 
-![Green C Badge](code_badge_yellow.png)
+![Green C Badge](code_badge_green.png)
 
 ###### House
 
