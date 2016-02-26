@@ -4,11 +4,11 @@ Some alternative symbols for your maps.
 
 ###### Truck
 
-![Black Truck](truck_black.png)  ![Blue truck](truck_blue.png)  ![Red truck](truck_red.png)  ![Yellow truck](truck_yellow.png)  ![Green truck](truck_green.png)
+![Black Truck](truck_black.png)  ![Blue truck](truck_blue.png)  ![Red truck](truck_red.png)  ![Yellow truck](truck_yellow.png)  ![Green truck](truck_green.png)  ![Orange truck](truck_orange.png)
 
 ###### Letter T
 
-![Black T](t_black.png)  ![Blue T](t_blue.png)  ![Red T](t_red.png)  ![Yellow T](t_yellow.png)  ![Green T](t_green.png)
+![Black T](t_black.png)  ![Blue T](t_blue.png)  ![Red T](t_red.png)  ![Yellow T](t_yellow.png)  ![Green T](t_green.png)  ![Orange T](t_orange.png)
 
 ###### C Badge
 
