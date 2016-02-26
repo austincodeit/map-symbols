@@ -19,7 +19,7 @@ Some alternative symbols for your maps.
 
 ###### House
 
-![black house](black_house.png)  ![blue house](blue_house.png)  ![Gray Check House](gray_check_house.png)  ![gray house](gray_house.png)  ![green house](green_house.png)  ![happy house](happy_house.png)  ![orange house](orange_house.png)  ![pale green house](pale_green_house.png) ![red house](red_house.png)
+![black house](black_house.png)  ![blue house](blue_house.png)  ![red house](red_house.png)  ![Gray Check House](gray_check_house.png)  ![gray house](gray_house.png)  ![green house](green_house.png)  ![orange house](orange_house.png)  ![happy house](happy_house.png)  ![pale green house](pale_green_house.png) 
 
 ###### Question Mark
 
