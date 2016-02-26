@@ -12,7 +12,7 @@ Some alternative symbols for your maps.
 
 ###### C Badge
 
-![Blue C Badge](code_badge_blue.png)  ![Red C Badge](code_badge_red.png)  ![Yellow C Badge](code_badge_yellow.png)  ![Green C Badge](code_badge_green.png)
+![Black C Badge](code_badge_black.png)  ![Blue C Badge](code_badge_blue.png)  ![Red C Badge](code_badge_red.png)  ![Yellow C Badge](code_badge_yellow.png)  ![Green C Badge](code_badge_green.png)
 
 ###### P Badge
 ![Black P](p_black.png)  ![Blue P](p_blue.png)  ![Red P](p_red.png)  ![Yellow P](p_yellow.png)  ![Green P](p_green.png)
