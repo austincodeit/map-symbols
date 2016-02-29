@@ -32,4 +32,4 @@ Some alternative symbols for your maps.
 
 ###### Cocktail Glass
 
-![cocktail fuchsia](cocktail_fuchsia.png)
+![cocktail fuchsia](cocktail_fuchsia.png)  ![cocktail purple](cocktail_purple.png)
