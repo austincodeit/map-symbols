@@ -29,3 +29,7 @@ Some alternative symbols for your maps.
 ###### Question Mark
 
 ![question mark](question_mark.png)
+
+###### Cocktail Glass
+
+![cocktail fuchsia](cocktail_fuchsia.png)
