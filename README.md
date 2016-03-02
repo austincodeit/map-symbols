@@ -1,6 +1,6 @@
 # map-symbols
 
-Some alternative symbols for your maps.
+Custom symbols for web maps.
 
 ###### Truck
 
